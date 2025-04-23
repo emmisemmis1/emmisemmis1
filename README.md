@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emmisemmis1, I'm only just now starting to learn a bit of code, and also Figma for prototypes. Would love to recieve feedback on how I can do better :) 
 - 👀 I’m interested in working out, watching series and skiing!
-- 🌱 I’m currently learning UX and Frond end development. 
-- 💞️ I’m mainly looking to collaborate on UX and Frond end projects, but I'm open to learn as much as I can! 
+- 🌱 I’m currently learning UX and Front end development. 
+- 💞️ I’m mainly looking to collaborate on UX and Front end projects, but I'm open to learn as much as I can! 
 - 📫 You can reach me here!
 - 😄 Pronouns: ... she/her
 - ⚡ I can't whistle for the life of me and I fear that I'll never be able to learn. 
